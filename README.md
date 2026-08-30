@@ -1,5 +1,5 @@
-## Spatial Structure and Plankton Dynamics: A Multi-Patch and PDE Study
-### The Role of Diffusion and Advection in a Multi-Patch Marine Environment
+# Spatial Structure and Plankton Dynamics: A Multi-Patch and PDE Study
+## The Role of Diffusion and Advection in a Multi-Patch Marine Environment
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7+-purple)](https://scipy.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
