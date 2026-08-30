@@ -15,6 +15,7 @@ An electronic version of the full thesis is available at the [TU Delft Repositor
 - **notebooks_main**: Core project notebooks, progressing from initial data analysis through 1D and 2D spatial models.
 - **notebooks_literature**: Reproductions of foundational NPZ literature (Franks 1986, Busenberg 1990, Cowall 2019, Cowall 2021).
 
+The complete file tree for the project is organized as follows:
 ```text
 Master-Final-Project/
 ├── reference_papers/               # Local copies of the original publications
