@@ -35,7 +35,7 @@ Master-Final-Project/
     ├── Franks1986.ipynb            # 0D Ivlev vs. Mayzaud-Poulet grazing comparison
     ├── Busenberg1990.ipynb         # 0D stability thresholds
     ├── Cowall2019.ipynb            # Continuous reaction-diffusion equilibrium profiles
-    └── Cowall2021.ipynb            # Continuous PDE seasonal bloom baseline (Chapter 5)
+    └── Cowall2021.ipynb            # Continuous PDE seasonal bloom baseline (Chapter 5.1)
 ```
 
 #### Prerequisites
