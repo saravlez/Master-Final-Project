@@ -38,13 +38,6 @@ Master-Final-Project/
     └── Cowall2021.ipynb            # Continuous PDE seasonal bloom baseline (Chapter 5)
 ```
 
-#### Main References
-- Franks et al. (1986) - [PDF Document](reference_papers/Franks1986.pdf)
-- Busenberg et al. (1990) - [PDF Document](reference_papers/Busenberg1990.pdf)
-- Cowall et al. (2019) - [PDF Document](reference_papers/Cowall2019.pdf)
-- Cowall et al. (2021) - [PDF Document](reference_papers/Cowall2021.pdf)
-
-
 #### Prerequisites
 
 To run the code, you will need a standard scientific Python environment. Key libraries include:
@@ -52,6 +45,13 @@ To run the code, you will need a standard scientific Python environment. Key lib
 - `scipy`
 - `matplotlib`
 - `jupyter`
+
+#### Main References
+
+- Franks et al. (1986) - [PDF Document](reference_papers/Franks1986.pdf)
+- Busenberg et al. (1990) - [PDF Document](reference_papers/Busenberg1990.pdf)
+- Cowall et al. (2019) - [PDF Document](reference_papers/Cowall2019.pdf)
+- Cowall et al. (2021) - [PDF Document](reference_papers/Cowall2021.pdf)
 
 #### Data Access
 
