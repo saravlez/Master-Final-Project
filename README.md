@@ -37,11 +37,12 @@ Master-Final-Project/
     └── Cowall2021.ipynb            # Continuous PDE seasonal bloom baseline (Chapter 5)
 ```
 
-#### Main References - To Do
-- Franks et al. (1986) - [Link here](Link here)
-- Busenberg et al. (1990) - [Link here](Link here)
-- Cowall et al. (2019) - [Link here](Link here)
-- Cowall et al. (2021) - [Link here](Link here)
+#### Main References
+- Franks et al. (1986) - [PDF Document](reference_papers/Franks1986.pdf)
+- Busenberg et al. (1990) - [PDF Document](reference_papers/Busenberg1990.pdf)
+- Cowall et al. (2019) - [PDF Document](reference_papers/Cowall2019.pdf)
+- Cowall et al. (2021) - [PDF Document](reference_papers/Cowall2021.pdf)
+
 
 #### Prerequisites
 
