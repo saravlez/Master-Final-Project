@@ -11,8 +11,7 @@ This repository contains the Jupyter Notebooks and Python code supporting my Mas
 An electronic version of the full thesis is available at the [TU Delft Repository](http://repository.tudelft.nl/).
 
 #### Repository Structure
-- **reference_papers**: Local copies of foundational NPZ literature (excluded from public repository).
-- **figures**: Generated plots and visual outputs from the thesis models.
+- **reference_papers**: Local copies of foundational NPZ literature.
 - **notebooks_main**: Core project notebooks, progressing from initial data analysis through 1D and 2D spatial models.
 - **notebooks_literature**: Reproductions of foundational NPZ literature (Franks 1986, Busenberg 1990, Cowall 2019, Cowall 2021).
 
