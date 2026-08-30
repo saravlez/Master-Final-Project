@@ -1,5 +1,6 @@
 # Spatial Structure and Plankton Dynamics: A Multi-Patch and PDE Study
 ## The Role of Diffusion and Advection in a Multi-Patch Marine Environment
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![SciPy](https://img.shields.io/badge/SciPy-1.7+-purple)](https://scipy.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
@@ -11,12 +12,11 @@ This repository contains the Jupyter Notebooks and Python code supporting my Mas
 An electronic version of the full thesis is available at the [TU Delft Repository](http://repository.tudelft.nl/).
 
 #### Repository Structure
-- **reference_papers**: Local copies of foundational NPZ literature.
 - **notebooks_main**: Core project notebooks, progressing from initial data analysis through 1D and 2D spatial models.
 - **notebooks_literature**: Reproductions of foundational NPZ literature.
 
-The complete file tree for the project is organized as follows:
-```text
+The complete file tree for the project is organised as follows:
+```
 Master-Final-Project/
 ├── reference_papers/               # Local copies of the original publications
 ├── figures/                        # Saved plots for the main project
@@ -39,22 +39,31 @@ Master-Final-Project/
 ```
 
 #### Prerequisites
+To run the code, you will need a standard scientific Python environment. You can install all required dependencies instantly using the included `requirements.txt` file:
 
-To run the code, you will need a standard scientific Python environment. Key libraries include:
+<pre>
+pip install -r requirements.txt
+</pre>
+
+Key libraries include:
 - `numpy`
 - `scipy`
 - `matplotlib`
+- `pandas`
+- `xarray`
+- `netcdf4`
+- `seaborn`
+- `tqdm`
 - `jupyter`
 
-#### Main References
 
+#### Main References
 - Franks et al. (1986) - [PDF Document](reference_papers/Franks1986.pdf)
 - Busenberg et al. (1990) - [PDF Document](reference_papers/Busenberg1990.pdf)
 - Cowall et al. (2019) - [PDF Document](reference_papers/Cowall2019.pdf)
 - Cowall et al. (2021) - [PDF Document](reference_papers/Cowall2021.pdf)
 
 #### Data Access
-
 The seasonal forcing data used in this project (NASA MODIS-Aqua surface light and chlorophyll-a, and HYCOM mixed layer depth for the North Atlantic) are excluded from this repository due to GitHub's file size limits. All notebooks have been pre-run and saved, so you can view the complete outputs and figures directly in your browser.
 
 If you would like the raw data files to reproduce the runs locally, please contact me via email.
